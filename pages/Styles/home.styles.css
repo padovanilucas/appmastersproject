@@ -1,0 +1,162 @@
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: cadetblue;
+}
+
+body {
+  background-image: linear-gradient(to bottom, #1b0125, #022340);
+  background-attachment: fixed;
+
+}
+
+fieldset {
+  border: 1px solid aquamarine;
+  background: #1b012570;
+
+}
+
+main {
+  width: 700px;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  font-family: 'Times New Roman', Times, serif, 'Arial Narrow', Arial, sans-serif;
+}
+
+form {
+  margin: 40px 0;
+}
+
+form input {
+  display: block;
+  border-radius: 8px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30em;
+  padding: 8px 15px;
+}
+
+form label {
+  display: block
+}
+
+.Primeira {
+  font-size: 40px;
+  text-align: center;
+  color: white;
+
+}
+
+.first {
+  display: flex;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 700px;
+
+}
+
+.second {
+  display: flex;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 600px;
+}
+
+.third {
+  display: flex;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 600px;
+}
+
+.ultimo1 {
+  display: flex;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 600px;
+}
+
+.doação {
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+.quantos {
+  display: block;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 100px;
+}
+
+.condição {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+
+}
+
+.equipamento {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  display: block;
+  margin-top: 0%;
+
+}
+
+.escolha {
+  display: flex;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 600px;
+  height: 35px;
+
+}
+
+.estado {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  display: block;
+  margin-top: 0%;
+}
+
+.funcionamento {
+  display: flex;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  height: 35px;
+  width: 600px;
+  }
+
+.enviar {
+  display: block;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 400px;
+  height: 40px;
+  color: rgb(4, 4, 85);
+}
